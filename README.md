@@ -6,11 +6,11 @@ but I have would like to do a little more directed usage of it.
 
 ## Repo Layout:
 
-`src/` : Here are the solutions, each file name signifying the day it solves. Each part of each day is in a single file.
-`puzzle_input`: each days input saved as a `.txt` file. - This is private, so sorry.
-`puzzle_desc`: descriptions of each puzzle for offline usage. - Again private, so sorry.
-`tempaltes` : a boilerplate file for me to get a basic `.odin` file up and running.
-`run.sh`: runs each odin file in sequence from day_1 to day_25.
+- `src/` : Here are the solutions, each file name signifying the day it solves. Each part of each day is in a single file.
+- `puzzle_input`: each days input saved as a `.txt` file. - This is private, so sorry.
+- `puzzle_desc`: descriptions of each puzzle for offline usage. - Again private, so sorry.
+- `tempaltes` : a boilerplate file for me to get a basic `.odin` file up and running.
+- `run.sh`: runs each odin file in sequence from day_1 to day_25.
 
 ## Why Not Post the Puzzle Desciption and Inputs:
 
